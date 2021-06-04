@@ -1,10 +1,10 @@
 const CONFIG = {
-    introTitle: 'Linh à!',
+    introTitle: 'Loan à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Quang nè',
+    btnIntro: 'Anh đây',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích Quang <33',
@@ -15,6 +15,6 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay ngủ ngon nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://www.facebook.com/linhphuong.hothi.12'
+    messLink: 'http://https://www.facebook.com/profile.php?id=100035686191678
 }
 
